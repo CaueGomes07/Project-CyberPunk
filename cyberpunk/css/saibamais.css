@@ -1,0 +1,47 @@
+header{
+	background: #FCEE09;
+}
+.cblogo{
+	position: relative;
+	max-height: 150px;
+	text-align: right;
+}
+.logo1{
+	max-height: 150px;
+	position: absolute;
+	right: 730px;
+}
+.logo2{
+	max-height: 150px;
+}
+.nav-menu{
+	position: relative;
+	text-align: center;
+	background: #00F0FF;
+}
+.li-menu{
+	display: inline-block;
+	padding: 7px 20px;
+}
+nav a{
+	font-family: fantasy;
+	font-size: 20px;
+	text-decoration: none;
+	color: #000000;
+}
+
+
+
+footer{
+	background: #050A0E;
+	text-align: center;
+	padding: 30px;
+}
+#rodape{
+	max-width: 200px;
+}
+.rodape{
+	color: #fafafa;
+	font-size: 14px;
+	margin: 20px 0 0 0;
+}
